@@ -1,0 +1,718 @@
+{
+ "source": "https://anesth.or.jp/users/person/guide_line",
+ "fetched": "2026-06-10",
+ "categories": [
+  "教育",
+  "本学会制定ガイドライン",
+  "プラクティカルガイド",
+  "救急救命士マニュアル",
+  "他学会合同",
+  "医薬品",
+  "その他"
+ ],
+ "items": [
+  {
+   "id": "g000",
+   "title": "教育ガイドライン改訂第4版",
+   "category": "教育",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kyoiku4_20220627.pdf",
+   "file": "kyoiku4_20220627.pdf",
+   "size": 3434546
+  },
+  {
+   "id": "g001",
+   "title": "悪性高熱症管理ガイドライン",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_akuseikounetsu.pdf",
+   "file": "guideline_akuseikounetsu.pdf",
+   "size": 770726
+  },
+  {
+   "id": "g002",
+   "title": "悪性高熱症管理ガイドライン（英語版）",
+   "category": "本学会制定ガイドライン",
+   "external": true,
+   "url": "https://link.springer.com/epdf/10.1007/s00540-025-03647-y?sharing_token=ZO_Zr4ovkr9QCovXqEsgTPe4RwlQNchNByi7wbcMAY743RwJU9SYB62uOaMk4dDbvrtUwiSnedi5rzUuf2Ivi2FcQLDawe8ZKNGyosxN5MMdzqdzc_FSUTkQRuV-SedVAM2XZHp3WbB9uBuXDezeS5A9y1ZVL8YIf1Gsit4FUdI%3D"
+  },
+  {
+   "id": "g003",
+   "title": "麻酔器の始業点検",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_checkout_20221117.pdf",
+   "file": "guideline_checkout_20221117.pdf",
+   "size": 455578
+  },
+  {
+   "id": "g004",
+   "title": "WHO 安全な手術のためのガイドライン2009",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20150526guideline.pdf",
+   "file": "20150526guideline.pdf",
+   "size": 3040221
+  },
+  {
+   "id": "g005",
+   "title": "WHO手術安全チェックリスト（2009年改訂版）",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20150526checklist.pdf",
+   "file": "20150526checklist.pdf",
+   "size": 423999
+  },
+  {
+   "id": "g006",
+   "title": "気道管理ガイドライン2014（日本語訳）",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20150427-2guidelin.pdf",
+   "file": "20150427-2guidelin.pdf",
+   "size": 1625347
+  },
+  {
+   "id": "g007",
+   "title": "気道管理ガイドライン2014 図表集",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20150427-2zukei.pdf",
+   "file": "20150427-2zukei.pdf",
+   "size": 380524
+  },
+  {
+   "id": "g008",
+   "title": "気道管理ガイドライン2014（英語版）",
+   "category": "本学会制定ガイドライン",
+   "external": true,
+   "url": "https://rdcu.be/czVjs"
+  },
+  {
+   "id": "g009",
+   "title": "無呼吸テスト実施指針",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_MukokyuTest.pdf",
+   "file": "guideline_MukokyuTest.pdf",
+   "size": 177413
+  },
+  {
+   "id": "g010",
+   "title": "薬剤シリンジラベルに関する提言",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_0604.pdf",
+   "file": "guideline_0604.pdf",
+   "size": 141869
+  },
+  {
+   "id": "g011",
+   "title": "薬剤シリンジラベルに関する提言（英語版）",
+   "category": "本学会制定ガイドライン",
+   "external": true,
+   "url": "https://rdcu.be/czVi8"
+  },
+  {
+   "id": "g012",
+   "title": "周術期禁煙プラクティカルガイド",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kinen-practical-guide_20210928.pdf",
+   "file": "kinen-practical-guide_20210928.pdf",
+   "size": 25340958
+  },
+  {
+   "id": "g013",
+   "title": "周術期禁煙プラクティカルガイド（英語版）",
+   "category": "本学会制定ガイドライン",
+   "external": true,
+   "url": "https://rdcu.be/cSRyn"
+  },
+  {
+   "id": "g014",
+   "title": "周術期禁煙ガイドライン",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20150409-1guidelin.pdf",
+   "file": "20150409-1guidelin.pdf",
+   "size": 259378
+  },
+  {
+   "id": "g015",
+   "title": "周術期禁煙ガイドライン追補版",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20180403-guideline.pdf",
+   "file": "20180403-guideline.pdf",
+   "size": 140620
+  },
+  {
+   "id": "g016",
+   "title": "周術期禁煙ガイドライン（英語版）",
+   "category": "本学会制定ガイドライン",
+   "external": true,
+   "url": "https://rdcu.be/cz2WF"
+  },
+  {
+   "id": "g017",
+   "title": "禁煙啓発ポスター（医療従事者向け）",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kinen-p-1.pdf",
+   "file": "kinen-p-1.pdf",
+   "size": 237713
+  },
+  {
+   "id": "g018",
+   "title": "禁煙啓発ポスター（一般の皆様向け）",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kinen-p-2_20190107.pdf",
+   "file": "kinen-p-2_20190107.pdf",
+   "size": 370739
+  },
+  {
+   "id": "g019",
+   "title": "周術期禁煙啓発リーフレット",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kinen-p-3_20210121.pdf",
+   "file": "kinen-p-3_20210121.pdf",
+   "size": 7954237
+  },
+  {
+   "id": "g020",
+   "title": "周術期禁煙啓発動画",
+   "category": "本学会制定ガイドライン",
+   "external": true,
+   "url": "https://anesth.or.jp/users/person/guide_line/perioperative_smoking_video"
+  },
+  {
+   "id": "g021",
+   "title": "骨髄バンクドナーに対する麻酔管理",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_donor_20200828.pdf",
+   "file": "guideline_donor_20200828.pdf",
+   "size": 116535
+  },
+  {
+   "id": "g022",
+   "title": "安全な麻酔のためのモニター指針",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/monitor3.pdf",
+   "file": "monitor3.pdf",
+   "size": 347099
+  },
+  {
+   "id": "g023",
+   "title": "「筋弛緩のチェックについて」に関するFAQ",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/faq_muscle_relaxation_check.pdf",
+   "file": "faq_muscle_relaxation_check.pdf",
+   "size": 1121874
+  },
+  {
+   "id": "g024",
+   "title": "術前絶飲食ガイドライン",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kangae2.pdf",
+   "file": "kangae2.pdf",
+   "size": 176174
+  },
+  {
+   "id": "g025",
+   "title": "Awake craniotomy麻酔管理のガイドライン",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_awake.pdf",
+   "file": "guideline_awake.pdf",
+   "size": 256778
+  },
+  {
+   "id": "g026",
+   "title": "脳死体からの臓器移植に関する指針",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_transplant2.pdf",
+   "file": "guideline_transplant2.pdf",
+   "size": 150262
+  },
+  {
+   "id": "g027",
+   "title": "麻酔関連業務における特定行為研修修了看護師の安全管理指針",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_safetymanagement.pdf",
+   "file": "guideline_safetymanagement.pdf",
+   "size": 233753
+  },
+  {
+   "id": "g028",
+   "title": "特定行為研修修了看護師の安全管理指針 FAQ",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_safetymanagement_faq.pdf",
+   "file": "guideline_safetymanagement_faq.pdf",
+   "size": 819947
+  },
+  {
+   "id": "g029",
+   "title": "特定行為研修修了看護師の安全管理指針 FAQ2",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_safetymanagement_faq_2.pdf",
+   "file": "guideline_safetymanagement_faq_2.pdf",
+   "size": 730467
+  },
+  {
+   "id": "g030",
+   "title": "全身麻酔用医薬品投与制御プログラムに関する適正使用指針",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_drug_administration_control_program.pdf",
+   "file": "guideline_drug_administration_control_program.pdf",
+   "size": 2056906
+  },
+  {
+   "id": "g031",
+   "title": "臨床工学技士の術中麻酔関連補助業務に関する安全管理指針",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/safety_management_guideline_clinical_engineers.pdf",
+   "file": "safety_management_guideline_clinical_engineers.pdf",
+   "size": 850333
+  },
+  {
+   "id": "g032",
+   "title": "臨床工学技士の安全管理指針 FAQ",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/safety_management_guideline_clinical_engineers_faq.pdf",
+   "file": "safety_management_guideline_clinical_engineers_faq.pdf",
+   "size": 467069
+  },
+  {
+   "id": "g033",
+   "title": "抜管から術後早期までの安全な気道管理のための臨床ガイドライン",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/safe_airway_management_extubation_early_postoperative_period.pdf",
+   "file": "safe_airway_management_extubation_early_postoperative_period.pdf",
+   "size": 1927421
+  },
+  {
+   "id": "g034",
+   "title": "抜管から術後早期までの安全な気道管理（ダイジェスト版）",
+   "category": "本学会制定ガイドライン",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/safe_airway_management_extubation_early_postoperative_period_digest.pdf",
+   "file": "safe_airway_management_extubation_early_postoperative_period_digest.pdf",
+   "size": 608159
+  },
+  {
+   "id": "g035",
+   "title": "安全な鎮静のためのプラクティカルガイド",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/practical_guide_for_safe_sedation_20220628.pdf",
+   "file": "practical_guide_for_safe_sedation_20220628.pdf",
+   "size": 1563267
+  },
+  {
+   "id": "g036",
+   "title": "安全な鎮静のためのプラクティカルガイド（英語版）",
+   "category": "プラクティカルガイド",
+   "external": true,
+   "url": "https://link.springer.com/epdf/10.1007/s00540-023-03177-5?sharing_token=NBkhjQ9YorqmV2bZP2e5Afe4RwlQNchNByi7wbcMAY5b8LwgWBb23xvHM3N0mpyId3FT6SsM-SWny5b-3YbXiIh8rFxlP9NlbnlOc5UY-UlUeXhBNMyDX6Fjz3mK-qF8WqfYMzVlgbqVZ-r-IPBOvIkLjIYEdpCJCeOnOKha1Rk%3D"
+  },
+  {
+   "id": "g037",
+   "title": "術中心停止に対するプラクティカルガイド",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/practical_guide_for_central_arrest_20220228.pdf",
+   "file": "practical_guide_for_central_arrest_20220228.pdf",
+   "size": 4083159
+  },
+  {
+   "id": "g038",
+   "title": "アナフィラキシーに対する対応プラクティカルガイド",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/response_practical_guide_to_anaphylaxis.pdf",
+   "file": "response_practical_guide_to_anaphylaxis.pdf",
+   "size": 777711
+  },
+  {
+   "id": "g039",
+   "title": "アナフィラキシー対応プラクティカルガイド（英語版）",
+   "category": "プラクティカルガイド",
+   "external": true,
+   "url": "https://rdcu.be/czVlj"
+  },
+  {
+   "id": "g040",
+   "title": "MEPモニタリング時の麻酔管理のためのプラクティカルガイド",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/mep_monitoring_practical_guide.pdf",
+   "file": "mep_monitoring_practical_guide.pdf",
+   "size": 2312550
+  },
+  {
+   "id": "g041",
+   "title": "MEPモニタリング時の麻酔管理（英語版）",
+   "category": "プラクティカルガイド",
+   "external": true,
+   "url": "https://rdcu.be/czViy"
+  },
+  {
+   "id": "g042",
+   "title": "安全な中心静脈カテーテル挿入・管理のためのプラクティカルガイド2026（早期掲載版）",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/JSA_CV_practical_guide_2026.pdf",
+   "file": "JSA_CV_practical_guide_2026.pdf",
+   "size": 3380049
+  },
+  {
+   "id": "g043",
+   "title": "中心静脈カテーテルプラクティカルガイド2017（英語版）",
+   "category": "プラクティカルガイド",
+   "external": true,
+   "url": "https://rdcu.be/czViO"
+  },
+  {
+   "id": "g044",
+   "title": "局所麻酔薬中毒への対応プラクティカルガイド",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/practical_localanesthesia.pdf",
+   "file": "practical_localanesthesia.pdf",
+   "size": 889643
+  },
+  {
+   "id": "g045",
+   "title": "局所麻酔薬中毒への対応（英語版）",
+   "category": "プラクティカルガイド",
+   "external": true,
+   "url": "https://rdcu.be/czVi6"
+  },
+  {
+   "id": "g046",
+   "title": "麻酔科学における患者安全に関するヘルシンキ宣言（和訳）",
+   "category": "プラクティカルガイド",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/helsinki_declaration.pdf",
+   "file": "helsinki_declaration.pdf",
+   "size": 229252
+  },
+  {
+   "id": "g047",
+   "title": "救急救命士気管挿管・ビデオ硬性喉頭鏡による気管挿管実習マニュアル",
+   "category": "救急救命士マニュアル",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/intubation_training_manual.pdf",
+   "file": "intubation_training_manual.pdf",
+   "size": 421781
+  },
+  {
+   "id": "g048",
+   "title": "救急救命士気管挿管実習マニュアル FAQ",
+   "category": "救急救命士マニュアル",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/intubation_training_manual_faq.pdf",
+   "file": "intubation_training_manual_faq.pdf",
+   "size": 90702
+  },
+  {
+   "id": "g049",
+   "title": "産科危機的出血への対応指針2022",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_Sanka_kiki_2022.pdf",
+   "file": "guideline_Sanka_kiki_2022.pdf",
+   "size": 785761
+  },
+  {
+   "id": "g050",
+   "title": "産科危機的出血ガイドライン2017のポスター",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_Sanka_kiki-p.pdf",
+   "file": "guideline_Sanka_kiki-p.pdf",
+   "size": 564905
+  },
+  {
+   "id": "g051",
+   "title": "抗血栓療法ガイドライン",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_kouketsusen.pdf",
+   "file": "guideline_kouketsusen.pdf",
+   "size": 5680737
+  },
+  {
+   "id": "g052",
+   "title": "抗血栓療法ガイドライン（追補版）",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_kouketsusen_tsuiho.pdf",
+   "file": "guideline_kouketsusen_tsuiho.pdf",
+   "size": 752498
+  },
+  {
+   "id": "g053",
+   "title": "NICUに入院している新生児の痛みのケアガイドライン（実用版）",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20150323guideline.pdf",
+   "file": "20150323guideline.pdf",
+   "size": 905212
+  },
+  {
+   "id": "g054",
+   "title": "日帰り麻酔の安全のための基準",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/higaerimasui.pdf",
+   "file": "higaerimasui.pdf",
+   "size": 131828
+  },
+  {
+   "id": "g055",
+   "title": "歯科医師の医科麻酔科研修ガイドライン（2008年改訂）",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20080620.pdf",
+   "file": "20080620.pdf",
+   "size": 189259
+  },
+  {
+   "id": "g056",
+   "title": "歯科医師の医科麻酔科研修のガイドライン（2026年改訂）",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20260413.pdf",
+   "file": "20260413.pdf",
+   "size": 866195
+  },
+  {
+   "id": "g057",
+   "title": "歯科医師の医科麻酔科研修ガイドライン Q&A",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/20260422.pdf",
+   "file": "20260422.pdf",
+   "size": 415614
+  },
+  {
+   "id": "g058",
+   "title": "宗教的輸血拒否に関するガイドライン",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline.pdf",
+   "file": "guideline.pdf",
+   "size": 41602
+  },
+  {
+   "id": "g059",
+   "title": "未成年者における輸血同意と拒否のフローチャート",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/flow_chart.pdf",
+   "file": "flow_chart.pdf",
+   "size": 14971
+  },
+  {
+   "id": "g060",
+   "title": "危機的出血への対応ガイドライン",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/kikitekiGL2.pdf",
+   "file": "kikitekiGL2.pdf",
+   "size": 356308
+  },
+  {
+   "id": "g061",
+   "title": "危機的出血ガイドラインのポスター",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/0129kikitekiGL_poster_data.pdf",
+   "file": "0129kikitekiGL_poster_data.pdf",
+   "size": 209222
+  },
+  {
+   "id": "g062",
+   "title": "患者プライバシー保護に関する指針（日本外科学会）",
+   "category": "他学会合同",
+   "external": true,
+   "url": "http://www.jssoc.or.jp/other/info/privacy.html"
+  },
+  {
+   "id": "g063",
+   "title": "術中低血圧予測モニター使用指針",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_use_intraoperative_hypotension_prediction_monitor.pdf",
+   "file": "guideline_use_intraoperative_hypotension_prediction_monitor.pdf",
+   "size": 146054
+  },
+  {
+   "id": "g064",
+   "title": "高齢者における術後せん妄の予防と治療のプラクティカルガイド",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_prevention_postoperative_delirium_elderly.pdf",
+   "file": "guideline_prevention_postoperative_delirium_elderly.pdf",
+   "size": 3934738
+  },
+  {
+   "id": "g065",
+   "title": "麻酔科領域における看護師の特定行為研修修了者の活用ガイド",
+   "category": "他学会合同",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/guideline_specific_training_anesthesiology.pdf",
+   "file": "guideline_specific_training_anesthesiology.pdf",
+   "size": 9458529
+  },
+  {
+   "id": "g066",
+   "title": "小児周術期ワクチンスケジュールに関するコンセンサスステートメント（日本小児科学会）",
+   "category": "他学会合同",
+   "external": true,
+   "url": "https://www.jpeds.or.jp/society-activities/post-155658.html"
+  },
+  {
+   "id": "g067",
+   "title": "医薬品ガイドライン Ⅰ. 催眠鎮静薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_hypnosis_sedative.pdf",
+   "file": "4_hypnosis_sedative.pdf",
+   "size": 3567858
+  },
+  {
+   "id": "g068",
+   "title": "医薬品ガイドライン Ⅱ. 鎮痛薬・拮抗薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_analgesics_and_antagonists.pdf",
+   "file": "4_analgesics_and_antagonists.pdf",
+   "size": 4299172
+  },
+  {
+   "id": "g069",
+   "title": "医薬品ガイドライン Ⅲ. 静脈関連薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_venous_medicine.pdf",
+   "file": "4_venous_medicine.pdf",
+   "size": 3211000
+  },
+  {
+   "id": "g070",
+   "title": "医薬品ガイドライン Ⅳ. 吸入麻酔薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_inhalation_anesthetic.pdf",
+   "file": "4_inhalation_anesthetic.pdf",
+   "size": 3324336
+  },
+  {
+   "id": "g071",
+   "title": "医薬品ガイドライン Ⅴ. 局所麻酔薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_local_anesthetic.pdf",
+   "file": "4_local_anesthetic.pdf",
+   "size": 3609501
+  },
+  {
+   "id": "g072",
+   "title": "医薬品ガイドライン Ⅵ. 筋弛緩薬・拮抗薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_muscle_relaxant_antagonist.pdf",
+   "file": "4_muscle_relaxant_antagonist.pdf",
+   "size": 3213595
+  },
+  {
+   "id": "g073",
+   "title": "医薬品ガイドライン Ⅶ. 輸液・電解質液",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_infusion_electrolyte_solution.pdf",
+   "file": "4_infusion_electrolyte_solution.pdf",
+   "size": 3396091
+  },
+  {
+   "id": "g074",
+   "title": "医薬品ガイドライン Ⅷ. 循環作動薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_circulating_agonist.pdf",
+   "file": "4_circulating_agonist.pdf",
+   "size": 4489481
+  },
+  {
+   "id": "g075",
+   "title": "医薬品ガイドライン Ⅸ. 産科麻酔薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_obstetric_anesthetic.pdf",
+   "file": "4_obstetric_anesthetic.pdf",
+   "size": 5673527
+  },
+  {
+   "id": "g076",
+   "title": "医薬品ガイドライン Ⅹ. 小児麻酔薬",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_pediatric_anesthetics.pdf",
+   "file": "4_pediatric_anesthetics.pdf",
+   "size": 4853116
+  },
+  {
+   "id": "g077",
+   "title": "医薬品ガイドライン Ⅺ. ペイン",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_pain_medicine.pdf",
+   "file": "4_pain_medicine.pdf",
+   "size": 7714120
+  },
+  {
+   "id": "g078",
+   "title": "医薬品ガイドライン Ⅻ. その他",
+   "category": "医薬品",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/4_other_medicine.pdf",
+   "file": "4_other_medicine.pdf",
+   "size": 5437582
+  },
+  {
+   "id": "g079",
+   "title": "臨床研究実施と公表に必要な倫理事項",
+   "category": "その他",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/ethics_matters_necessary_publication.pdf",
+   "file": "ethics_matters_necessary_publication.pdf",
+   "size": 681921
+  },
+  {
+   "id": "g080",
+   "title": "多数傷病者事故への院内対応手引き",
+   "category": "その他",
+   "external": false,
+   "url": "https://anesth.or.jp/files/pdf/in_hospital_guidance.pdf",
+   "file": "in_hospital_guidance.pdf",
+   "size": 2209118
+  }
+ ]
+}
