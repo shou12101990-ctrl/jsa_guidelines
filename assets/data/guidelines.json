@@ -31,13 +31,6 @@
   },
   {
    "id": "g002",
-   "title": "悪性高熱症管理ガイドライン（英語版）",
-   "category": "本学会制定ガイドライン",
-   "external": true,
-   "url": "https://link.springer.com/epdf/10.1007/s00540-025-03647-y?sharing_token=ZO_Zr4ovkr9QCovXqEsgTPe4RwlQNchNByi7wbcMAY743RwJU9SYB62uOaMk4dDbvrtUwiSnedi5rzUuf2Ivi2FcQLDawe8ZKNGyosxN5MMdzqdzc_FSUTkQRuV-SedVAM2XZHp3WbB9uBuXDezeS5A9y1ZVL8YIf1Gsit4FUdI%3D"
-  },
-  {
-   "id": "g003",
    "title": "麻酔器の始業点検",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -46,7 +39,7 @@
    "size": 455578
   },
   {
-   "id": "g004",
+   "id": "g003",
    "title": "WHO 安全な手術のためのガイドライン2009",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -55,7 +48,7 @@
    "size": 3040221
   },
   {
-   "id": "g005",
+   "id": "g004",
    "title": "WHO手術安全チェックリスト（2009年改訂版）",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -64,7 +57,7 @@
    "size": 423999
   },
   {
-   "id": "g006",
+   "id": "g005",
    "title": "気道管理ガイドライン2014（日本語訳）",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -73,7 +66,7 @@
    "size": 1625347
   },
   {
-   "id": "g007",
+   "id": "g006",
    "title": "気道管理ガイドライン2014 図表集",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -82,14 +75,7 @@
    "size": 380524
   },
   {
-   "id": "g008",
-   "title": "気道管理ガイドライン2014（英語版）",
-   "category": "本学会制定ガイドライン",
-   "external": true,
-   "url": "https://rdcu.be/czVjs"
-  },
-  {
-   "id": "g009",
+   "id": "g007",
    "title": "無呼吸テスト実施指針",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -98,7 +84,7 @@
    "size": 177413
   },
   {
-   "id": "g010",
+   "id": "g008",
    "title": "薬剤シリンジラベルに関する提言",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -107,14 +93,7 @@
    "size": 141869
   },
   {
-   "id": "g011",
-   "title": "薬剤シリンジラベルに関する提言（英語版）",
-   "category": "本学会制定ガイドライン",
-   "external": true,
-   "url": "https://rdcu.be/czVi8"
-  },
-  {
-   "id": "g012",
+   "id": "g009",
    "title": "周術期禁煙プラクティカルガイド",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -123,14 +102,7 @@
    "size": 25340958
   },
   {
-   "id": "g013",
-   "title": "周術期禁煙プラクティカルガイド（英語版）",
-   "category": "本学会制定ガイドライン",
-   "external": true,
-   "url": "https://rdcu.be/cSRyn"
-  },
-  {
-   "id": "g014",
+   "id": "g010",
    "title": "周術期禁煙ガイドライン",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -139,7 +111,7 @@
    "size": 259378
   },
   {
-   "id": "g015",
+   "id": "g011",
    "title": "周術期禁煙ガイドライン追補版",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -148,14 +120,7 @@
    "size": 140620
   },
   {
-   "id": "g016",
-   "title": "周術期禁煙ガイドライン（英語版）",
-   "category": "本学会制定ガイドライン",
-   "external": true,
-   "url": "https://rdcu.be/cz2WF"
-  },
-  {
-   "id": "g017",
+   "id": "g012",
    "title": "禁煙啓発ポスター（医療従事者向け）",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -164,7 +129,7 @@
    "size": 237713
   },
   {
-   "id": "g018",
+   "id": "g013",
    "title": "禁煙啓発ポスター（一般の皆様向け）",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -173,7 +138,7 @@
    "size": 370739
   },
   {
-   "id": "g019",
+   "id": "g014",
    "title": "周術期禁煙啓発リーフレット",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -182,14 +147,14 @@
    "size": 7954237
   },
   {
-   "id": "g020",
+   "id": "g015",
    "title": "周術期禁煙啓発動画",
    "category": "本学会制定ガイドライン",
    "external": true,
    "url": "https://anesth.or.jp/users/person/guide_line/perioperative_smoking_video"
   },
   {
-   "id": "g021",
+   "id": "g016",
    "title": "骨髄バンクドナーに対する麻酔管理",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -198,7 +163,7 @@
    "size": 116535
   },
   {
-   "id": "g022",
+   "id": "g017",
    "title": "安全な麻酔のためのモニター指針",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -207,7 +172,7 @@
    "size": 347099
   },
   {
-   "id": "g023",
+   "id": "g018",
    "title": "「筋弛緩のチェックについて」に関するFAQ",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -216,7 +181,7 @@
    "size": 1121874
   },
   {
-   "id": "g024",
+   "id": "g019",
    "title": "術前絶飲食ガイドライン",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -225,7 +190,7 @@
    "size": 176174
   },
   {
-   "id": "g025",
+   "id": "g020",
    "title": "Awake craniotomy麻酔管理のガイドライン",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -234,7 +199,7 @@
    "size": 256778
   },
   {
-   "id": "g026",
+   "id": "g021",
    "title": "脳死体からの臓器移植に関する指針",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -243,7 +208,7 @@
    "size": 150262
   },
   {
-   "id": "g027",
+   "id": "g022",
    "title": "麻酔関連業務における特定行為研修修了看護師の安全管理指針",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -252,7 +217,7 @@
    "size": 233753
   },
   {
-   "id": "g028",
+   "id": "g023",
    "title": "特定行為研修修了看護師の安全管理指針 FAQ",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -261,7 +226,7 @@
    "size": 819947
   },
   {
-   "id": "g029",
+   "id": "g024",
    "title": "特定行為研修修了看護師の安全管理指針 FAQ2",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -270,7 +235,7 @@
    "size": 730467
   },
   {
-   "id": "g030",
+   "id": "g025",
    "title": "全身麻酔用医薬品投与制御プログラムに関する適正使用指針",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -279,7 +244,7 @@
    "size": 2056906
   },
   {
-   "id": "g031",
+   "id": "g026",
    "title": "臨床工学技士の術中麻酔関連補助業務に関する安全管理指針",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -288,7 +253,7 @@
    "size": 850333
   },
   {
-   "id": "g032",
+   "id": "g027",
    "title": "臨床工学技士の安全管理指針 FAQ",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -297,7 +262,7 @@
    "size": 467069
   },
   {
-   "id": "g033",
+   "id": "g028",
    "title": "抜管から術後早期までの安全な気道管理のための臨床ガイドライン",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -306,7 +271,7 @@
    "size": 1927421
   },
   {
-   "id": "g034",
+   "id": "g029",
    "title": "抜管から術後早期までの安全な気道管理（ダイジェスト版）",
    "category": "本学会制定ガイドライン",
    "external": false,
@@ -315,7 +280,7 @@
    "size": 608159
   },
   {
-   "id": "g035",
+   "id": "g030",
    "title": "安全な鎮静のためのプラクティカルガイド",
    "category": "プラクティカルガイド",
    "external": false,
@@ -324,14 +289,7 @@
    "size": 1563267
   },
   {
-   "id": "g036",
-   "title": "安全な鎮静のためのプラクティカルガイド（英語版）",
-   "category": "プラクティカルガイド",
-   "external": true,
-   "url": "https://link.springer.com/epdf/10.1007/s00540-023-03177-5?sharing_token=NBkhjQ9YorqmV2bZP2e5Afe4RwlQNchNByi7wbcMAY5b8LwgWBb23xvHM3N0mpyId3FT6SsM-SWny5b-3YbXiIh8rFxlP9NlbnlOc5UY-UlUeXhBNMyDX6Fjz3mK-qF8WqfYMzVlgbqVZ-r-IPBOvIkLjIYEdpCJCeOnOKha1Rk%3D"
-  },
-  {
-   "id": "g037",
+   "id": "g031",
    "title": "術中心停止に対するプラクティカルガイド",
    "category": "プラクティカルガイド",
    "external": false,
@@ -340,7 +298,7 @@
    "size": 4083159
   },
   {
-   "id": "g038",
+   "id": "g032",
    "title": "アナフィラキシーに対する対応プラクティカルガイド",
    "category": "プラクティカルガイド",
    "external": false,
@@ -349,14 +307,7 @@
    "size": 777711
   },
   {
-   "id": "g039",
-   "title": "アナフィラキシー対応プラクティカルガイド（英語版）",
-   "category": "プラクティカルガイド",
-   "external": true,
-   "url": "https://rdcu.be/czVlj"
-  },
-  {
-   "id": "g040",
+   "id": "g033",
    "title": "MEPモニタリング時の麻酔管理のためのプラクティカルガイド",
    "category": "プラクティカルガイド",
    "external": false,
@@ -365,14 +316,7 @@
    "size": 2312550
   },
   {
-   "id": "g041",
-   "title": "MEPモニタリング時の麻酔管理（英語版）",
-   "category": "プラクティカルガイド",
-   "external": true,
-   "url": "https://rdcu.be/czViy"
-  },
-  {
-   "id": "g042",
+   "id": "g034",
    "title": "安全な中心静脈カテーテル挿入・管理のためのプラクティカルガイド2026（早期掲載版）",
    "category": "プラクティカルガイド",
    "external": false,
@@ -381,14 +325,7 @@
    "size": 3380049
   },
   {
-   "id": "g043",
-   "title": "中心静脈カテーテルプラクティカルガイド2017（英語版）",
-   "category": "プラクティカルガイド",
-   "external": true,
-   "url": "https://rdcu.be/czViO"
-  },
-  {
-   "id": "g044",
+   "id": "g035",
    "title": "局所麻酔薬中毒への対応プラクティカルガイド",
    "category": "プラクティカルガイド",
    "external": false,
@@ -397,14 +334,7 @@
    "size": 889643
   },
   {
-   "id": "g045",
-   "title": "局所麻酔薬中毒への対応（英語版）",
-   "category": "プラクティカルガイド",
-   "external": true,
-   "url": "https://rdcu.be/czVi6"
-  },
-  {
-   "id": "g046",
+   "id": "g036",
    "title": "麻酔科学における患者安全に関するヘルシンキ宣言（和訳）",
    "category": "プラクティカルガイド",
    "external": false,
@@ -413,7 +343,7 @@
    "size": 229252
   },
   {
-   "id": "g047",
+   "id": "g037",
    "title": "救急救命士気管挿管・ビデオ硬性喉頭鏡による気管挿管実習マニュアル",
    "category": "救急救命士マニュアル",
    "external": false,
@@ -422,7 +352,7 @@
    "size": 421781
   },
   {
-   "id": "g048",
+   "id": "g038",
    "title": "救急救命士気管挿管実習マニュアル FAQ",
    "category": "救急救命士マニュアル",
    "external": false,
@@ -431,7 +361,7 @@
    "size": 90702
   },
   {
-   "id": "g049",
+   "id": "g039",
    "title": "産科危機的出血への対応指針2022",
    "category": "他学会合同",
    "external": false,
@@ -440,7 +370,7 @@
    "size": 785761
   },
   {
-   "id": "g050",
+   "id": "g040",
    "title": "産科危機的出血ガイドライン2017のポスター",
    "category": "他学会合同",
    "external": false,
@@ -449,7 +379,7 @@
    "size": 564905
   },
   {
-   "id": "g051",
+   "id": "g041",
    "title": "抗血栓療法ガイドライン",
    "category": "他学会合同",
    "external": false,
@@ -458,7 +388,7 @@
    "size": 5680737
   },
   {
-   "id": "g052",
+   "id": "g042",
    "title": "抗血栓療法ガイドライン（追補版）",
    "category": "他学会合同",
    "external": false,
@@ -467,7 +397,7 @@
    "size": 752498
   },
   {
-   "id": "g053",
+   "id": "g043",
    "title": "NICUに入院している新生児の痛みのケアガイドライン（実用版）",
    "category": "他学会合同",
    "external": false,
@@ -476,7 +406,7 @@
    "size": 905212
   },
   {
-   "id": "g054",
+   "id": "g044",
    "title": "日帰り麻酔の安全のための基準",
    "category": "他学会合同",
    "external": false,
@@ -485,7 +415,7 @@
    "size": 131828
   },
   {
-   "id": "g055",
+   "id": "g045",
    "title": "歯科医師の医科麻酔科研修ガイドライン（2008年改訂）",
    "category": "他学会合同",
    "external": false,
@@ -494,7 +424,7 @@
    "size": 189259
   },
   {
-   "id": "g056",
+   "id": "g046",
    "title": "歯科医師の医科麻酔科研修のガイドライン（2026年改訂）",
    "category": "他学会合同",
    "external": false,
@@ -503,7 +433,7 @@
    "size": 866195
   },
   {
-   "id": "g057",
+   "id": "g047",
    "title": "歯科医師の医科麻酔科研修ガイドライン Q&A",
    "category": "他学会合同",
    "external": false,
@@ -512,7 +442,7 @@
    "size": 415614
   },
   {
-   "id": "g058",
+   "id": "g048",
    "title": "宗教的輸血拒否に関するガイドライン",
    "category": "他学会合同",
    "external": false,
@@ -521,7 +451,7 @@
    "size": 41602
   },
   {
-   "id": "g059",
+   "id": "g049",
    "title": "未成年者における輸血同意と拒否のフローチャート",
    "category": "他学会合同",
    "external": false,
@@ -530,7 +460,7 @@
    "size": 14971
   },
   {
-   "id": "g060",
+   "id": "g050",
    "title": "危機的出血への対応ガイドライン",
    "category": "他学会合同",
    "external": false,
@@ -539,7 +469,7 @@
    "size": 356308
   },
   {
-   "id": "g061",
+   "id": "g051",
    "title": "危機的出血ガイドラインのポスター",
    "category": "他学会合同",
    "external": false,
@@ -548,14 +478,14 @@
    "size": 209222
   },
   {
-   "id": "g062",
+   "id": "g052",
    "title": "患者プライバシー保護に関する指針（日本外科学会）",
    "category": "他学会合同",
    "external": true,
    "url": "http://www.jssoc.or.jp/other/info/privacy.html"
   },
   {
-   "id": "g063",
+   "id": "g053",
    "title": "術中低血圧予測モニター使用指針",
    "category": "他学会合同",
    "external": false,
@@ -564,7 +494,7 @@
    "size": 146054
   },
   {
-   "id": "g064",
+   "id": "g054",
    "title": "高齢者における術後せん妄の予防と治療のプラクティカルガイド",
    "category": "他学会合同",
    "external": false,
@@ -573,7 +503,7 @@
    "size": 3934738
   },
   {
-   "id": "g065",
+   "id": "g055",
    "title": "麻酔科領域における看護師の特定行為研修修了者の活用ガイド",
    "category": "他学会合同",
    "external": false,
@@ -582,14 +512,14 @@
    "size": 9458529
   },
   {
-   "id": "g066",
+   "id": "g056",
    "title": "小児周術期ワクチンスケジュールに関するコンセンサスステートメント（日本小児科学会）",
    "category": "他学会合同",
    "external": true,
    "url": "https://www.jpeds.or.jp/society-activities/post-155658.html"
   },
   {
-   "id": "g067",
+   "id": "g057",
    "title": "医薬品ガイドライン Ⅰ. 催眠鎮静薬",
    "category": "医薬品",
    "external": false,
@@ -598,7 +528,7 @@
    "size": 3567858
   },
   {
-   "id": "g068",
+   "id": "g058",
    "title": "医薬品ガイドライン Ⅱ. 鎮痛薬・拮抗薬",
    "category": "医薬品",
    "external": false,
@@ -607,7 +537,7 @@
    "size": 4299172
   },
   {
-   "id": "g069",
+   "id": "g059",
    "title": "医薬品ガイドライン Ⅲ. 静脈関連薬",
    "category": "医薬品",
    "external": false,
@@ -616,7 +546,7 @@
    "size": 3211000
   },
   {
-   "id": "g070",
+   "id": "g060",
    "title": "医薬品ガイドライン Ⅳ. 吸入麻酔薬",
    "category": "医薬品",
    "external": false,
@@ -625,7 +555,7 @@
    "size": 3324336
   },
   {
-   "id": "g071",
+   "id": "g061",
    "title": "医薬品ガイドライン Ⅴ. 局所麻酔薬",
    "category": "医薬品",
    "external": false,
@@ -634,7 +564,7 @@
    "size": 3609501
   },
   {
-   "id": "g072",
+   "id": "g062",
    "title": "医薬品ガイドライン Ⅵ. 筋弛緩薬・拮抗薬",
    "category": "医薬品",
    "external": false,
@@ -643,7 +573,7 @@
    "size": 3213595
   },
   {
-   "id": "g073",
+   "id": "g063",
    "title": "医薬品ガイドライン Ⅶ. 輸液・電解質液",
    "category": "医薬品",
    "external": false,
@@ -652,7 +582,7 @@
    "size": 3396091
   },
   {
-   "id": "g074",
+   "id": "g064",
    "title": "医薬品ガイドライン Ⅷ. 循環作動薬",
    "category": "医薬品",
    "external": false,
@@ -661,7 +591,7 @@
    "size": 4489481
   },
   {
-   "id": "g075",
+   "id": "g065",
    "title": "医薬品ガイドライン Ⅸ. 産科麻酔薬",
    "category": "医薬品",
    "external": false,
@@ -670,7 +600,7 @@
    "size": 5673527
   },
   {
-   "id": "g076",
+   "id": "g066",
    "title": "医薬品ガイドライン Ⅹ. 小児麻酔薬",
    "category": "医薬品",
    "external": false,
@@ -679,7 +609,7 @@
    "size": 4853116
   },
   {
-   "id": "g077",
+   "id": "g067",
    "title": "医薬品ガイドライン Ⅺ. ペイン",
    "category": "医薬品",
    "external": false,
@@ -688,7 +618,7 @@
    "size": 7714120
   },
   {
-   "id": "g078",
+   "id": "g068",
    "title": "医薬品ガイドライン Ⅻ. その他",
    "category": "医薬品",
    "external": false,
@@ -697,7 +627,7 @@
    "size": 5437582
   },
   {
-   "id": "g079",
+   "id": "g069",
    "title": "臨床研究実施と公表に必要な倫理事項",
    "category": "その他",
    "external": false,
@@ -706,7 +636,7 @@
    "size": 681921
   },
   {
-   "id": "g080",
+   "id": "g070",
    "title": "多数傷病者事故への院内対応手引き",
    "category": "その他",
    "external": false,

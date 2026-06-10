@@ -17,21 +17,16 @@ ITEMS = [
 
     # ── 本学会制定ガイドライン ──
     ("本学会制定ガイドライン", "悪性高熱症管理ガイドライン", "/files/pdf/guideline_akuseikounetsu.pdf", False),
-    ("本学会制定ガイドライン", "悪性高熱症管理ガイドライン（英語版）", "https://link.springer.com/epdf/10.1007/s00540-025-03647-y?sharing_token=ZO_Zr4ovkr9QCovXqEsgTPe4RwlQNchNByi7wbcMAY743RwJU9SYB62uOaMk4dDbvrtUwiSnedi5rzUuf2Ivi2FcQLDawe8ZKNGyosxN5MMdzqdzc_FSUTkQRuV-SedVAM2XZHp3WbB9uBuXDezeS5A9y1ZVL8YIf1Gsit4FUdI%3D", True),
     ("本学会制定ガイドライン", "麻酔器の始業点検", "/files/pdf/guideline_checkout_20221117.pdf", False),
     ("本学会制定ガイドライン", "WHO 安全な手術のためのガイドライン2009", "/files/pdf/20150526guideline.pdf", False),
     ("本学会制定ガイドライン", "WHO手術安全チェックリスト（2009年改訂版）", "/files/pdf/20150526checklist.pdf", False),
     ("本学会制定ガイドライン", "気道管理ガイドライン2014（日本語訳）", "/files/pdf/20150427-2guidelin.pdf", False),
     ("本学会制定ガイドライン", "気道管理ガイドライン2014 図表集", "/files/pdf/20150427-2zukei.pdf", False),
-    ("本学会制定ガイドライン", "気道管理ガイドライン2014（英語版）", "https://rdcu.be/czVjs", True),
     ("本学会制定ガイドライン", "無呼吸テスト実施指針", "/files/pdf/guideline_MukokyuTest.pdf", False),
     ("本学会制定ガイドライン", "薬剤シリンジラベルに関する提言", "/files/pdf/guideline_0604.pdf", False),
-    ("本学会制定ガイドライン", "薬剤シリンジラベルに関する提言（英語版）", "https://rdcu.be/czVi8", True),
     ("本学会制定ガイドライン", "周術期禁煙プラクティカルガイド", "/files/pdf/kinen-practical-guide_20210928.pdf", False),
-    ("本学会制定ガイドライン", "周術期禁煙プラクティカルガイド（英語版）", "https://rdcu.be/cSRyn", True),
     ("本学会制定ガイドライン", "周術期禁煙ガイドライン", "/files/pdf/20150409-1guidelin.pdf", False),
     ("本学会制定ガイドライン", "周術期禁煙ガイドライン追補版", "/files/pdf/20180403-guideline.pdf", False),
-    ("本学会制定ガイドライン", "周術期禁煙ガイドライン（英語版）", "https://rdcu.be/cz2WF", True),
     ("本学会制定ガイドライン", "禁煙啓発ポスター（医療従事者向け）", "/files/pdf/kinen-p-1.pdf", False),
     ("本学会制定ガイドライン", "禁煙啓発ポスター（一般の皆様向け）", "/files/pdf/kinen-p-2_20190107.pdf", False),
     ("本学会制定ガイドライン", "周術期禁煙啓発リーフレット", "/files/pdf/kinen-p-3_20210121.pdf", False),
@@ -53,16 +48,11 @@ ITEMS = [
 
     # ── 本学会制定プラクティカルガイド ──
     ("プラクティカルガイド", "安全な鎮静のためのプラクティカルガイド", "/files/pdf/practical_guide_for_safe_sedation_20220628.pdf", False),
-    ("プラクティカルガイド", "安全な鎮静のためのプラクティカルガイド（英語版）", "https://link.springer.com/epdf/10.1007/s00540-023-03177-5?sharing_token=NBkhjQ9YorqmV2bZP2e5Afe4RwlQNchNByi7wbcMAY5b8LwgWBb23xvHM3N0mpyId3FT6SsM-SWny5b-3YbXiIh8rFxlP9NlbnlOc5UY-UlUeXhBNMyDX6Fjz3mK-qF8WqfYMzVlgbqVZ-r-IPBOvIkLjIYEdpCJCeOnOKha1Rk%3D", True),
     ("プラクティカルガイド", "術中心停止に対するプラクティカルガイド", "/files/pdf/practical_guide_for_central_arrest_20220228.pdf", False),
     ("プラクティカルガイド", "アナフィラキシーに対する対応プラクティカルガイド", "/files/pdf/response_practical_guide_to_anaphylaxis.pdf", False),
-    ("プラクティカルガイド", "アナフィラキシー対応プラクティカルガイド（英語版）", "https://rdcu.be/czVlj", True),
     ("プラクティカルガイド", "MEPモニタリング時の麻酔管理のためのプラクティカルガイド", "/files/pdf/mep_monitoring_practical_guide.pdf", False),
-    ("プラクティカルガイド", "MEPモニタリング時の麻酔管理（英語版）", "https://rdcu.be/czViy", True),
     ("プラクティカルガイド", "安全な中心静脈カテーテル挿入・管理のためのプラクティカルガイド2026（早期掲載版）", "/files/pdf/JSA_CV_practical_guide_2026.pdf", False),
-    ("プラクティカルガイド", "中心静脈カテーテルプラクティカルガイド2017（英語版）", "https://rdcu.be/czViO", True),
     ("プラクティカルガイド", "局所麻酔薬中毒への対応プラクティカルガイド", "/files/pdf/practical_localanesthesia.pdf", False),
-    ("プラクティカルガイド", "局所麻酔薬中毒への対応（英語版）", "https://rdcu.be/czVi6", True),
     ("プラクティカルガイド", "麻酔科学における患者安全に関するヘルシンキ宣言（和訳）", "/files/pdf/helsinki_declaration.pdf", False),
 
     # ── 救急救命士気管挿管マニュアル ──
