@@ -37,6 +37,14 @@
 3. `python3 tools/build_manifest.py` 実行(差分PDFのみDL)
 4. `flutter test` で整合性確認
 
+## デプロイ
+
+- GitHub Pages: https://shou12101990-ctrl.github.io/jsa_guidelines/
+- リポジトリ: https://github.com/shou12101990-ctrl/jsa_guidelines
+- mainへのpushで `.github/workflows/deploy.yml` が自動ビルド・デプロイ(nutricalcと同方式)
+- ローカルからのgh-pagesブランチ直接push(約155MB)はHTTP 408で失敗するため使わない。
+  mainのpush自体も大きいので `git -c http.postBuffer=524288000 -c http.version=HTTP/1.1 push` が必要なことがある
+
 ## 配布上の注意
 
 PDFの著作権は日本麻酔科学会等に帰属。個人利用前提。

@@ -3,6 +3,9 @@
 日本麻酔科学会が公開している指針・ガイドライン・プラクティカルガイドを
 オフラインで一覧・検索・閲覧できる個人用Flutterアプリ。
 
+公開URL: https://shou12101990-ctrl.github.io/jsa_guidelines/
+(mainへのpushでGitHub Actionsが自動ビルド・デプロイ)
+
 - 収載: 81項目(PDF同梱68本 + 外部リンク13件)/ 2026-06-10時点
 - 出典: https://anesth.or.jp/users/person/guide_line (医薬品ガイドラインのサブページ含む)
 
